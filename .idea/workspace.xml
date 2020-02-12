@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="" />
+    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HR-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HR-Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XdFdsxXPnvf9HPMhXO9yYklUY8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,8 +33,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.rangoli">
-    <configuration name="alignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.capitalize">
+    <configuration name="capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HR-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +46,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alignment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitalize.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.capitalize" />
         <item itemvalue="Python.rangoli" />
         <item itemvalue="Python.format1" />
         <item itemvalue="Python.doormat" />
         <item itemvalue="Python.wrap" />
-        <item itemvalue="Python.alignment" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +175,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom" timestamp="1581488168076">
+    <state width="1899" height="428" key="GridCell.Tab.0.bottom" timestamp="1581535371059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581488168076" />
-    <state width="1899" height="363" key="GridCell.Tab.0.center" timestamp="1581488168076">
+    <state width="1899" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581535371059" />
+    <state width="1899" height="428" key="GridCell.Tab.0.center" timestamp="1581535371059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581488168076" />
-    <state width="1899" height="363" key="GridCell.Tab.0.left" timestamp="1581488168076">
+    <state width="1899" height="428" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581535371059" />
+    <state width="1899" height="428" key="GridCell.Tab.0.left" timestamp="1581535371059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581488168076" />
-    <state width="1899" height="363" key="GridCell.Tab.0.right" timestamp="1581488168076">
+    <state width="1899" height="428" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581535371059" />
+    <state width="1899" height="428" key="GridCell.Tab.0.right" timestamp="1581535371059">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="363" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581488168076" />
+    <state width="1899" height="428" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581535371059" />
     <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1581488168076">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -202,9 +211,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581368188559" />
-    <state x="655" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1581433005643">
+    <state x="655" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1581532916424">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="655" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581433005643" />
+    <state x="655" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581532916424" />
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581535413082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581535413082" />
   </component>
 </project>
