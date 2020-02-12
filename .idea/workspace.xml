@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/HR-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HR-Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +169,19 @@
       <option name="presentableId" value="Default" />
       <updated>1581368154720</updated>
     </task>
+    <task id="LOCAL-00001" summary="capitalize exercise added">
+      <created>1581535464430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581535464430</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="capitalize exercise added" />
+    <option name="LAST_COMMIT_MESSAGE" value="capitalize exercise added" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1899" height="428" key="GridCell.Tab.0.bottom" timestamp="1581535371059">
