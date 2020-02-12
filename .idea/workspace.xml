@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="fixup! fixup! capitalize exercise added">
+    <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/arithmeticop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capitalize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/divise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doormat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/findstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/format1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leapyears.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leapyears2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listcomp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/listcomp1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/merging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniongame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mutation1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/name1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nestedlist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/percentage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/print1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rangoli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runnerup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/splitandjoin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swapcase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tuple1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weird.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weird2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wrap.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581541984458</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="string merge exxercise added">
+      <created>1581545098054</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581545098054</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,13 +271,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="capitalize exercise added" />
     <MESSAGE value="miniongame exercise added" />
-    <option name="LAST_COMMIT_MESSAGE" value="miniongame exercise added" />
+    <MESSAGE value="string merge exxercise added" />
+    <option name="LAST_COMMIT_MESSAGE" value="string merge exxercise added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="135" key="CommitChangelistDialog2" timestamp="1581542045654">
+    <state x="614" y="135" key="CommitChangelistDialog2" timestamp="1581545097350">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581542045654" />
+    <state x="614" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581545097350" />
     <state x="807" y="442" key="GitRewordDialog" timestamp="1581542059453">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -281,10 +319,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581368188559" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1581542071457">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1581545106475">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581542071457" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581545106475" />
     <state x="727" y="274" key="VcsDiffUtil.ChangesDialog" timestamp="1581536180732">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
