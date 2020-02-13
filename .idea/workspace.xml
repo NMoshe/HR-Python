@@ -3,36 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b1013a43-25db-4e2b-baa7-bf29f0395ac0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alignment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/arithmeticop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/capitalize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doormat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/findstring.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/format1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leapyears.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leapyears2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listcomp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/listcomp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/merging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniongame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mutation1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/name1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nestedlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/percentage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/print1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/rangoli.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runnerup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/splitandjoin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/swapcase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tuple1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/validator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weird.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weird2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wrap.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +32,28 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.merging">
+  <component name="RunManager" selected="Python.NoIdea">
+    <configuration name="NoIdea" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HR-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/NoIdea.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="capitalize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HR-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,27 +67,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capitalize.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="format1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HR-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/format1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rangoli" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sets1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HR-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sets" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rangoli.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sets/sets1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NoIdea" />
+        <item itemvalue="Python.sets1" />
         <item itemvalue="Python.merging" />
         <item itemvalue="Python.miniongame" />
         <item itemvalue="Python.capitalize" />
-        <item itemvalue="Python.rangoli" />
-        <item itemvalue="Python.format1" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581545098054</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="set exercise added">
+      <created>1581619158337</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581619158337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,6 +219,7 @@
                   </entry>
                 </map>
               </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -272,33 +250,34 @@
     <MESSAGE value="capitalize exercise added" />
     <MESSAGE value="miniongame exercise added" />
     <MESSAGE value="string merge exxercise added" />
-    <option name="LAST_COMMIT_MESSAGE" value="string merge exxercise added" />
+    <MESSAGE value="set exercise added" />
+    <option name="LAST_COMMIT_MESSAGE" value="set exercise added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="614" y="135" key="CommitChangelistDialog2" timestamp="1581545097350">
+    <state x="614" y="135" key="CommitChangelistDialog2" timestamp="1581619156289">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="614" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581545097350" />
+    <state x="614" y="135" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581619156289" />
     <state x="807" y="442" key="GitRewordDialog" timestamp="1581542059453">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="807" y="442" key="GitRewordDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581542059453" />
-    <state width="1899" height="428" key="GridCell.Tab.0.bottom" timestamp="1581544883159">
+    <state width="1899" height="428" key="GridCell.Tab.0.bottom" timestamp="1581621530064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581544883159" />
-    <state width="1899" height="428" key="GridCell.Tab.0.center" timestamp="1581544883159">
+    <state width="1899" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581621530064" />
+    <state width="1899" height="428" key="GridCell.Tab.0.center" timestamp="1581621530064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="428" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581544883159" />
-    <state width="1899" height="428" key="GridCell.Tab.0.left" timestamp="1581544883159">
+    <state width="1899" height="428" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581621530064" />
+    <state width="1899" height="428" key="GridCell.Tab.0.left" timestamp="1581621530063">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="428" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581544883159" />
-    <state width="1899" height="428" key="GridCell.Tab.0.right" timestamp="1581544883159">
+    <state width="1899" height="428" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581621530063" />
+    <state width="1899" height="428" key="GridCell.Tab.0.right" timestamp="1581621530064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="428" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581544883159" />
+    <state width="1899" height="428" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581621530064" />
     <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1581488168076">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -319,18 +298,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="461" y="183" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581368188559" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1581545106475">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1581619165454">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581545106475" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581619165454" />
     <state x="727" y="274" key="VcsDiffUtil.ChangesDialog" timestamp="1581536180732">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="727" y="274" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581536180732" />
-    <state x="655" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1581532916424">
+    <state x="655" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1581617017277">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="655" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581532916424" />
+    <state x="655" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581617017277" />
     <state x="769" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581535413082">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
