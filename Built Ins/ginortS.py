@@ -12,3 +12,6 @@ if __name__ == '__main__':
 
     for i in z:
         print(i, end='')
+
+    #order = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1357902468'
+    #print(*sorted(input(), key=order.index), sep='')
