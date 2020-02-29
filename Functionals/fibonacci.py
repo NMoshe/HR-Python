@@ -1,6 +1,3 @@
-cube = lambda x: x ** 3  # complete the lambda function
-
-
 def fibonacci(n):
     if n == 0:
         return []
@@ -16,4 +13,4 @@ def fibonacci(n):
 
 if __name__ == '__main__':
     n = int(input())
-    print(list(map(cube, fibonacci(n))))
+    print(list(map(lambda x: x ** 3, fibonacci(n))))
